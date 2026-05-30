@@ -1,5 +1,7 @@
 # cs-starter
 
+[![CI](https://github.com/Crankygeek01-dev/cs-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/Crankygeek01-dev/cs-starter/actions/workflows/ci.yml)
+
 A minimal C# starter: .NET 10 solution with a console app and xUnit tests.
 
 ## Requirements
